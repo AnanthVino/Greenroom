@@ -1,0 +1,9 @@
+local-config.json
+scratchpad.txt
+run
+.DS_Store
+client/.DS_Store
+*/.DS_Store
+.meteor/local
+local.json
+node_modules
